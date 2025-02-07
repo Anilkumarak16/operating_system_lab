@@ -109,4 +109,4 @@ int main() {
 }
 ```
 
-![screenshot](2.png)
+![screenshot](2.jpg)
